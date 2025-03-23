@@ -12,7 +12,7 @@
 </head>
 
 <body class="container mt-4">
-    <h2 class="text-center">Agregar libro</h2>
+    <h2 class="text-center">Agregaar libro</h2>
 
     <form action="../controlador/Agregar_Libro.php" method="post" class="border p-4 rounded bg-light">
 
